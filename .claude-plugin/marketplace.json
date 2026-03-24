@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "palash-knowledge-worker-plugins",
+  "name": "knowledge-work-plugins",
   "description": "AI agent teams for real-world workflows — recruiting, career management, and more.",
   "owner": {
     "name": "Palash Jain"
