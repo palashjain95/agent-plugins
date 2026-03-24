@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "palashjain-plugins",
+  "description": "AI agent teams for real-world workflows — recruiting, career management, and more.",
+  "owner": {
+    "name": "Palash Jain"
+  },
+  "plugins": [
+    {
+      "name": "jobhunter",
+      "description": "Your AI recruiting team — scores fit, tailors resume, preps interviews, negotiates offers. Three agents handling your entire job search lifecycle.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/palashjain95/jobhunter.git"
+      },
+      "homepage": "https://github.com/palashjain95/jobhunter"
+    }
+  ]
+}
