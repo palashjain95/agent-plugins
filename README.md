@@ -7,13 +7,13 @@ Open source repository of plugins primarily intended for knowledge workers to us
 Add the marketplace:
 
 ```bash
-claude plugin marketplace add palashjain95/agent-plugins
+claude plugin marketplace add palashjain95/jpalash-plugins
 ```
 
 Then install any plugin:
 
 ```bash
-claude plugin install jobhunter@agent-plugins
+claude plugin install jobhunter@jpalash-plugins
 ```
 
 ## Available Plugins
