@@ -1,4 +1,4 @@
-# Palash Jain Plugins
+# Palash Knowledge Worker Plugins
 
 AI agent teams for real-world workflows.
 
@@ -7,13 +7,13 @@ AI agent teams for real-world workflows.
 Add the marketplace:
 
 ```bash
-claude plugin marketplace add palashjain95/plugins
+claude plugin marketplace add palashjain95/palash-knowledge-worker-plugins
 ```
 
 Then install any plugin:
 
 ```bash
-claude plugin install jobhunter@palashjain-plugins
+claude plugin install jobhunter@palash-knowledge-worker-plugins
 ```
 
 ## Available Plugins
