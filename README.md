@@ -1,6 +1,6 @@
 # Knowledge Work Plugins
 
-AI agent teams for real-world workflows.
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork & Claude Code.
 
 ## Install
 
